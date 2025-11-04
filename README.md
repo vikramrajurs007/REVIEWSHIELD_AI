@@ -28,9 +28,4 @@ The goal of this project is to ensure **authenticity and transparency** in onlin
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/vikramrajurs007/REVIEWSHIELD_AI.git
-cd REVIEWSHIELD_AI
